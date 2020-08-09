@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/user-badges/static/css/main.fddef87e.chunk.css",
-    "main.js": "/user-badges/static/js/main.c2f535e4.chunk.js",
-    "main.js.map": "/user-badges/static/js/main.c2f535e4.chunk.js.map",
+    "main.js": "/user-badges/static/js/main.776f432b.chunk.js",
+    "main.js.map": "/user-badges/static/js/main.776f432b.chunk.js.map",
     "runtime-main.js": "/user-badges/static/js/runtime-main.d8bb682c.js",
     "runtime-main.js.map": "/user-badges/static/js/runtime-main.d8bb682c.js.map",
     "static/js/2.7bde2c7f.chunk.js": "/user-badges/static/js/2.7bde2c7f.chunk.js",
     "static/js/2.7bde2c7f.chunk.js.map": "/user-badges/static/js/2.7bde2c7f.chunk.js.map",
     "index.html": "/user-badges/index.html",
-    "precache-manifest.a35b01cc1d010e0b232927174e1d8f9a.js": "/user-badges/precache-manifest.a35b01cc1d010e0b232927174e1d8f9a.js",
+    "precache-manifest.6efce66393905a49f963da3d653f48b2.js": "/user-badges/precache-manifest.6efce66393905a49f963da3d653f48b2.js",
     "service-worker.js": "/user-badges/service-worker.js",
     "static/css/main.fddef87e.chunk.css.map": "/user-badges/static/css/main.fddef87e.chunk.css.map",
     "static/js/2.7bde2c7f.chunk.js.LICENSE.txt": "/user-badges/static/js/2.7bde2c7f.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.d8bb682c.js",
     "static/js/2.7bde2c7f.chunk.js",
     "static/css/main.fddef87e.chunk.css",
-    "static/js/main.c2f535e4.chunk.js"
+    "static/js/main.776f432b.chunk.js"
   ]
 }
