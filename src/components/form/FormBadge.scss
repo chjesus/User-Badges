@@ -1,0 +1,81 @@
+.form{
+  position: relative;
+  z-index: 4;
+  width: 35%;
+  background-color: white;
+  margin-left: .5rem;
+  border-radius: 10px;
+  padding-bottom: 1rem;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+  .check{
+    display: flex;
+    align-items: center;
+    .btn-primary{
+      margin: 0;
+      background-color: rgb(33, 167, 33);
+      &:hover{
+        background-color: rgb(33, 167, 33);
+      }
+    }
+  }
+  &__group{
+    width: 100%;
+    padding: 1rem 1.5rem 0 1.5rem;
+
+    label{
+      margin: .5rem 0;
+      display: inline-block;
+      font-weight: 300;
+    }
+    input[type="text"],
+    input[type="email"]{
+      width: 100%;
+      padding: .6rem 1rem;
+      background-color: rgba(128, 128, 128, 0.3);
+      outline: none;
+      border: none;
+      border-radius: 5px;
+      font-size: 18px;
+    }
+
+    input[type="checkbox"]{
+      margin-right: .5rem;
+      width: 20px;
+      height: 20px;
+      padding: 1rem;
+      cursor: pointer;
+    }
+    .btn{
+      padding: .8rem 1.2rem;
+      background-color: #0791E6;
+      color: white;
+      border: none;
+      font-weight: 900;
+      margin-right: .4rem;
+      cursor: pointer;
+      font-size: 15px;
+      transition: all .3s;
+      border-radius: 5px;
+
+    }
+    .btn-info{
+      background-color: rgb(25, 145, 219);
+      transition: all .3s;
+      &:hover{
+        background-color: rgb(7, 120, 190);
+      }
+    }
+    .btn-primary{
+      width: 100%;
+      background-color: green;
+      transition: all .3s;
+      &:hover{
+        background-color: rgb(2, 107, 2);
+      }
+    }
+    .btn-danger{
+      width: 100%;
+      background-color: rgb(255, 60, 60);
+    }
+  }
+}

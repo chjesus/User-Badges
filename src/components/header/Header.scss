@@ -1,0 +1,24 @@
+.nav-menu{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  align-self: flex-start;
+  width: 100%;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.6);
+  .nav-li{
+    list-style: none;
+    &__item{
+      text-decoration: none;
+      color: white;
+      padding: 1rem 1.2rem;
+      font-size: 22px;
+      display: block;
+      transition: all .3s;
+      &:hover{
+        text-decoration: underline;
+        background-color: rgb(17, 17, 104);
+      }
+    }
+  }
+}
